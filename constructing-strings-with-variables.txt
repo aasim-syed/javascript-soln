@@ -1,0 +1,3 @@
+// Only change code below this line
+var myName="Aasim";
+var myStr="My name is and " + myName + " I am well! ";
